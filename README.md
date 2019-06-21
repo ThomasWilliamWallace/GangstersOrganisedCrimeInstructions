@@ -5,9 +5,9 @@ Complete instructions to run an ISO of the 1998 game _Gangsters: Organised Crime
 1. Mount the gangsters ISO
 2. Install by running SETUP.EXE (don't change any compatibility settings here)
 3. Restart your computer, and make sure the Gangsters disc is still mounted
-4. Add the two files from Gangsters fix zip
-5. Run Sold Out Software's CD patch 'XPGangPatch'
-6. Set the compatability mode settings
+4. Copy the elishacloud [patch files](https://github.com/elishacloud/dxwrapper/wiki/Gangsters-Organized-Crime) into the gangsters.exe folder
+5. Install the XPGangPatch from [Sold-out Games](http://www.sold-out.co.uk/soldout/support/gangsters.html).
+6. Set the compatibility mode settings
 ```
 'win XP service pack 3',
 'Run in 640 x 480 screen resolution'
@@ -22,20 +22,23 @@ Complete instructions to run an ISO of the 1998 game _Gangsters: Organised Crime
 1. Mount the gangsters ISO
 2. Install by running SETUP.EXE (don't change any compatibility settings here)
 3. Restart your computer, and make sure the Gangsters disc is still mounted
-4. Run Sold Out Software's CD patch 'XPGangPatch'
-5. Set compat mode win XP service pack 3
-6. Set compat mode 'Run in 640 x 480 screen resolution'
-7. Set compat mode 'Run as administrator'
-8. Create a text file in the gangsters.exe folder, name it gangsters.txt
-9. Paste in this text:
+4. Install the XPGangPatch from [Sold-out Games](http://www.sold-out.co.uk/soldout/support/gangsters.html).
+5. Set the compatibility mode settings
+```
+'win XP service pack 3',
+'Run in 640 x 480 screen resolution'
+'Run as administrator'
+```
+6. Create a text file in the gangsters.exe folder, name it gangsters.txt
+7. Paste in this text:
 ```
 taskkill /f /im explorer.exe
 start /w Gangsters.exe
 start explorer.exe
 ```
-10. Save, and rename the file to gangsters.bat
-11. Create a shortcut to the gangsters.bat, and move the shortcut to your desktop
-12. Double click the shortcut to start gangsters.
+8. Save, and rename the file to gangsters.bat
+9. Create a shortcut to the gangsters.bat, and move the shortcut to your desktop
+10. Double click the shortcut to start gangsters.
 
 
 ## Frequent Problems
