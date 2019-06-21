@@ -6,7 +6,7 @@ Complete instructions to run an ISO of the 1998 game _Gangsters: Organised Crime
 2. Install by running SETUP.EXE (don't change any compatibility settings here)
 3. Restart your computer, and make sure the Gangsters disc is still mounted
 4. Copy the elishacloud [patch files](https://github.com/elishacloud/dxwrapper/wiki/Gangsters-Organized-Crime) into the gangsters.exe folder
-5. Install the XPGangPatch from [Sold-out Games](http://www.sold-out.co.uk/soldout/support/gangsters.html).
+5. Install the XPGangPatch from [Sold-out Games](http://www.sold-out.co.uk/soldout/support/gangsters.html)
 6. Set the compatibility mode settings
 ```
 'win XP service pack 3',
@@ -14,9 +14,12 @@ Complete instructions to run an ISO of the 1998 game _Gangsters: Organised Crime
 'Run as administrator'
 ```
 7. Run the Gangsters.exe
+8. Wait for screen to go black
+9. Ctrl-alt-delete, then choose 'Cancel' from the resulting blue 
+7. Run the Gangsters.exe
 8. Wait for screen to go black.
 9. Ctrl-alt-delete, then choose 'Cancel' from the resulting blue screen
-10. Wait about 10 seconds, then the Gangsters game should start.
+10. Wait about 10 seconds, then the Gangsters game should start
 
 ## Instructions for Windows 7 and below:
 1. Mount the gangsters ISO
@@ -52,7 +55,7 @@ Under 'Legacy Components', enable 'DirectPlay'.
 Install the XPGangPatch from [Sold-out Games](http://www.sold-out.co.uk/soldout/support/gangsters.html).
 
 ### Start Menu has no button text:
-Copy the elishacloud [patch files](https://github.com/elishacloud/dxwrapper/wiki/Gangsters-Organized-Crime) into the gangsters.exe folder
+Copy the elishacloud [patch files](https://github.com/elishacloud/dxwrapper/wiki/Gangsters-Organized-Crime) into the gangsters.exe folder.
 
 ### CD Drive makes too much whirring noise:
 Mount an ISO of the disk instead.
@@ -67,4 +70,4 @@ start explorer.exe
 ```
 3. Save, and rename the file to gangsters.bat
 4. Create a shortcut to the gangsters.bat, and move the shortcut to your desktop
-5. Double click the bat file to start gangsters.
+5. Double click the bat file to start gangsters
