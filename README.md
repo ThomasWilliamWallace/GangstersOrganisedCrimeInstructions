@@ -1,5 +1,5 @@
 # _Gangsters: Organised Crime_ Instructions
-Complete instructions to run the 1998 game _Gangsters: Organised Crime_ on a modern computer.
+Complete instructions to run an ISO of the 1998 game _Gangsters: Organised Crime_ on a modern computer.
 
 ## Instructions for Windows 10:
 1. Mount the gangsters ISO
