@@ -15,7 +15,7 @@ Complete instructions to run an ISO of the 1998 game _Gangsters: Organised Crime
 ```
 7. Run the Gangsters.exe
 8. Wait for screen to go black
-9. Ctrl-alt-delete, then choose 'Cancel' from the resulting blue 
+9. Ctrl-alt-delete, then choose 'Cancel' from the resulting blue screen menu
 7. Run the Gangsters.exe
 8. Wait for screen to go black.
 9. Ctrl-alt-delete, then choose 'Cancel' from the resulting blue screen
